@@ -109,5 +109,10 @@ subplot(3,2,6); plot(t,dm6); title("Recovered Signal 6");
 ```
 
 __Output__:
+
 <img width="626" height="901" alt="517721440-d4597242-a51a-4c34-8448-1aee5ce97dfb" src="https://github.com/user-attachments/assets/62fffe81-f83a-42a2-ae48-3822f98cd4f3" />
+
+
 __Result__:
+
+Thus, the program executed successfully done with python
